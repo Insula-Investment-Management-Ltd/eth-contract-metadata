@@ -1,4 +1,11 @@
 { 
+  "0x697ef32b4a3f5a4c39de1cb7563f24ca7bfc5947": {
+    "name": "Insula",
+    "logo": "insula.png",
+    "erc20": true,
+    "symbol": "ISLA",
+    "decimals": 18
+  },
   "0x49d716DFe60b37379010A75329ae09428f17118d": {
     "name": "PoolTogether Dai",
     "logo": "pldai.svg",
